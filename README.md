@@ -4,7 +4,9 @@ Blogger PI
 IN this i will teach you how to use Google Blogger API with Python 3.7
 
 Tutorial 1 : https://www.youtube.com/watch?v=6nAnSi0yAM8
+
 Tutorial 2 : https://www.youtube.com/watch?v=RlaWQspy9pQ
+
 Tutorial 3 : https://www.youtube.com/watch?v=zG0UoOsFFcw&feature=youtu.be
 
 
